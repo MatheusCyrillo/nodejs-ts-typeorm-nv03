@@ -29,7 +29,7 @@ export default class CreateTransactions1599617747577 implements MigrationInterfa
           },
           {
             name: 'value',
-            type: 'varchar'
+            type: 'numeric'
           },
           {
             name: 'created_at',
